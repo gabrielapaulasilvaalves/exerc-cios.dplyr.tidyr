@@ -1,3 +1,6 @@
+install.packages(usethis)
+usethis::use_git()
+
 #Instalação de pacotes
 install.packages("dplyr")
 library(diplyr)
